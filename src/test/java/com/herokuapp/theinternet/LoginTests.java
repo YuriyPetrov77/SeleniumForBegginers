@@ -73,7 +73,7 @@ public class LoginTests {
 		wait.until(ExpectedConditions.elementToBeClickable(By.className("radius"))).click();
 
 		sleep(1);
-// verification
+// Main verification
 // new url
 		String expectedUrl = "http://the-internet.herokuapp.com/secure";
 		String actualUrl = driver.getCurrentUrl();
