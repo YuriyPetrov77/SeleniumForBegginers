@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-19T17:15:53Z" name="Exceptions Tests Suite" finished-at="2019-07-19T17:16:01Z" duration-ms="8719">
+    <groups>
+    </groups>
+    <test started-at="2019-07-19T17:15:53Z" name="Exceptions Test" finished-at="2019-07-19T17:16:01Z" duration-ms="8719">
+      <class name="com.herokuapp.theinternet.ExceptionsTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.herokuapp.theinternet.ExceptionsTest@43c1b556]" started-at="2019-07-19T17:15:53Z" name="setUp" finished-at="2019-07-19T17:15:57Z" duration-ms="3859" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="disabledElementTest()[pri:5, instance:com.herokuapp.theinternet.ExceptionsTest@43c1b556]" started-at="2019-07-19T17:15:57Z" name="disabledElementTest" finished-at="2019-07-19T17:16:01Z" duration-ms="4136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disabledElementTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.herokuapp.theinternet.ExceptionsTest@43c1b556]" started-at="2019-07-19T17:16:01Z" name="tearDown" finished-at="2019-07-19T17:16:01Z" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.theinternet.ExceptionsTest -->
+    </test> <!-- Exceptions Test -->
+  </suite> <!-- Exceptions Tests Suite -->
+</testng-results>
